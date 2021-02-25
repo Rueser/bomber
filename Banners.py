@@ -19,7 +19,7 @@ def banner3():
                     Ваша система - Linux/Android   
                             Сервисы - \033[32m320 
                                                         """
-  sys.stdout.write(banner)
+  sys.stdout.write(banner2)
 
 
 
@@ -158,8 +158,6 @@ def banner_atack():
 
 message = "\033[94m \n -|| Проверка запуска ||- \033[0m"
 message2 = " Нажмите  ENTER для продолжения ..."
-
-
 
 
 
